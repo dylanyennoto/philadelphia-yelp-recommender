@@ -1,29 +1,42 @@
-﻿## Restaurant Recommendation System Project
+# 🍽️ Philadelphia Restaurant Recommender System
 
-___
+## Overview
 
+Welcome to the **Philadelphia Restaurant Recommender System**! This project is designed to help food lovers discover the best dining spots in Philadelphia. Whether you're a local or just visiting, this system will guide you to restaurants you'll love, powered by smart recommendation algorithms.
 
- 
+## How It Works
 
-These packages can be installed using pip by running the following command:
+- 🔍 **Recommendation Engine**: Built using **collaborative filtering techniques** to suggest restaurants tailored to your preferences.
+- 🧠 **Core Techniques**:
+  - **Matrix Factorization**: Breaks down user-restaurant interactions to uncover hidden patterns.
+  - **Tabular Models**: Leverages structured data for precise recommendations.
+- 📊 **Dataset**: Trained on the [Kaggle Yelp Dataset](https://www.kaggle.com/datasets/yelp-dataset/yelp-dataset), ensuring robust and real-world insights.
+
+## Features
+
+- 🍴 Personalized restaurant recommendations in Philadelphia.
+- ⚡ Fast and efficient thanks to advanced machine learning models.
+- 📈 Data-driven insights to help you find the perfect dining experience.
+
+## Tech Stack
+
+- **Python** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+- **Machine Learning Libraries** (e.g., scikit-learn, TensorFlow, or PyTorch—feel free to specify!)
+- **Dataset**: [Yelp Dataset | Kaggle](https://www.kaggle.com/datasets/yelp-dataset/yelp-dataset) 
 
   
 
+## Replication
+
+```bash
+git clone https://github.com/dylanyennoto/philadelphia-yelp-recommender.git
 ```
 
+```
 pip install -r requirements.txt
-
 ```
-
-  
-
-##### Replication
-
-  
 
 To run the code, follow these steps:
-
-  
 
 1. Download the dataset using kaggle's API (follow steps in the `data_clean_preprocess.ipynb`) or alternatively download the datasets & files from this [Yelp Dataset | Kaggle](https://www.kaggle.com/datasets/yelp-dataset/yelp-dataset) link and extract them to the data directory or use . Make sure all the files are within one directory './dataset'
 
@@ -106,7 +119,3 @@ business_id --> ktop
   
 
 ```
-
-  
-
-if the flowchart doesn't render, please refer to the file *flowchart.png*
