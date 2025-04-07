@@ -1,23 +1,5 @@
 ﻿## Restaurant Recommendation System Project
 
-##### Authors
-
-  
-
-This project was created as part of the SDSC3002 Data Mining course by City University of Hong Kong Students:
-
-- ABDINEGARA, Beatrice
-
-- GUSTAF, Benedict Ronaldo
-
-- HA, Quang Minh
-
-- YENNOTO, Keane Dylan
-
-##### Requirements
-
-  
-
 These packages can be installed using pip by running the following command:
 
   
