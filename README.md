@@ -1,5 +1,10 @@
 ﻿## Restaurant Recommendation System Project
 
+___
+
+
+ 
+
 These packages can be installed using pip by running the following command:
 
   
@@ -12,7 +17,7 @@ pip install -r requirements.txt
 
   
 
-##### Getting Started
+##### Replication
 
   
 
